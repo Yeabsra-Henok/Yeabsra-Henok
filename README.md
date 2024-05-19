@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-Front-end web developer flient in Reactjs and Nodejs
+Front-end web developer fluent in Reactjs and Nodejs
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * 🖥️  See my portfolio at [Yeabsra.com](http://yeabsra.com)
