@@ -1,7 +1,7 @@
 Hi, I'm Yeabsra!
 =====================================================================================================================================
 
-Front-end Developer
+I'm a Front-end Web Developer
 -------------------
 
 Front-end web developer fluent in Reactjs and Nodejs
